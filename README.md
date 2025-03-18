@@ -113,4 +113,34 @@ const api = axios.create({
 - For JWT authentication, ensure your secret key is strong and kept secure.
 
 ---
+## Website Preview
 
+- HomePage
+  
+  ![homepage](https://github.com/user-attachments/assets/7318f24e-4c1c-4252-b718-8e356bb93947)
+
+- BookPage
+
+  ![bookpage](https://github.com/user-attachments/assets/c1b095f1-e715-4fde-a49a-bcef64b61259)
+
+- BookCard
+
+  ![bookcard](https://github.com/user-attachments/assets/4865fac0-d5ff-47c1-9e83-56594d9515d3)
+
+- Cart
+
+  ![cart](https://github.com/user-attachments/assets/6e1c72e1-549b-490a-94fd-ad7965e1d5c4)
+
+- checkout
+
+  ![checkout](https://github.com/user-attachments/assets/2373e495-8993-4ae8-ab15-56b7fd943558)
+
+- Order Details and Order History
+
+  ![order details](https://github.com/user-attachments/assets/7b606e05-5179-41fc-9c3f-6e6035f6decd)
+
+  ![order history](https://github.com/user-attachments/assets/6a816c7f-bba2-451b-b77b-4ea02767f872)
+
+- Profile
+
+  ![profile](https://github.com/user-attachments/assets/6ce8ea91-4423-4f2d-8622-f5349e030978)
